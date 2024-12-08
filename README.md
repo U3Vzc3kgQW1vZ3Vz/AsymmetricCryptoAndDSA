@@ -1,5 +1,5 @@
 # Asymetric Cryptography project
-This project  contains three asymmetric cryptography system including RSA, El Gamal and the Elliptic Curve El Gamal as well as their digital signature schemes of the corresponding crypto system. max key size for RSA and El Gamal is 1024 bit while EC el gamal is 128 bit
+This project  contains three asymmetric cryptography system including RSA, El Gamal and the Elliptic Curve El Gamal as well as their digital signature schemes of the corresponding crypto system. max key size for RSA and El Gamal is 2048 bit while EC el gamal is 128 bit using the secp256k1 curve
 
 ## Implementation
 
